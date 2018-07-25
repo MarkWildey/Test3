@@ -9,4 +9,4 @@ use strict;
 
 
 print "Welcome to test3\n" ;
-print "Update to test3, 1\n" ;
+print "Update to test3, 3\n" ;
