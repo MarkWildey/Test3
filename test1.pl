@@ -9,3 +9,4 @@ use strict;
 
 
 print "This is line 1, before any commit\n" ;
+print "This is line 2\n" ;
